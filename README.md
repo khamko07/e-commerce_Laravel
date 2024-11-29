@@ -25,7 +25,7 @@ A Laravel-based e-commerce website that provides online shopping functionality. 
 1. Clone the repository:
 ```sh
 git clone https://github.com/khamko07/e-commerce_Laravel.git
-cd TestLaravel6
+cd e-commerce_Laravel 
 ```
 
 2. Install PHP dependencies:
