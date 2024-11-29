@@ -1,7 +1,7 @@
 
 # Pascalia Shop
 
-A Laravel-based e-commerce website that provides online shopping functionality.
+A Laravel-based e-commerce website that provides online shopping functionality. ( This file Readme.md i am use AI for code Readme )
 
 ## Features
 
@@ -69,29 +69,19 @@ php artisan serve
 
 ## Project Structure
 
-- 
-
-app
+- app
 
  - Application core code
-- 
-
-views
+- views
 
  - Blade template files
-- 
-
-routes
+- routes
 
  - Application routes
-- 
-
-public
+- public
 
  - Publicly accessible files
-- 
-
-migrations
+- migrations
 
  - Database migrations
 
@@ -109,8 +99,8 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Name - khamko
-Email - khamko@pascaliaasia.com
+Name: khamko
+Email: khamko@pascaliaasia.com
 
 ## Screenshots
 
